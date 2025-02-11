@@ -1,0 +1,38 @@
+.active-link{
+  color: #f5c332;
+  
+}
+.outer{
+    background-image: url("./image/girl.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 550px; 
+    
+    
+  }
+  
+  
+  @media (min-width:768px)and (max-width:992px){
+    .outer{
+      height: 550px;
+      width: 500px; 
+    }
+  }
+  
+  
+  @media (min-width:567px)and (max-width:768px){
+    .outer{
+      height: 600px;
+      width: 500px;
+    }
+  }
+  
+  @media(max-width:567px){
+    .outer{
+      height: 360px;
+      width: 250px;
+    }
+  }
+
+  
