@@ -5,9 +5,9 @@ import about_img from "./image/about.jpg"
 
 import sign from "./image/signature.png"
 import arrow from "../home/image/arrow.png"
-import { Orderprocess } from './aboutcomponent/orderprocess'
-import { Chief } from '../home/homecomponents/Chief'
-import { MobileApp } from '../home/homecomponents/MobileApp'
+import { Orderprocess } from './aboutcomponent/orderprocess.jsx'
+import { Chief } from '../home/homecomponents/Chief.jsx'
+import { MobileApp } from '../home/homecomponents/MobileApp.jsx'
 
 import { IoPlayOutline } from "react-icons/io5";
 

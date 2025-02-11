@@ -6,13 +6,13 @@ import img from "./image/interior.jpg"
 
 
 
-import { Process } from './homecomponents/Process'
-import { Populardishes } from './homecomponents/Populardishes'
-import { Chief } from './homecomponents/Chief'
+import { Process } from './homecomponents/Process.jsx'
+import { Populardishes } from './homecomponents/Populardishes.jsx'
+import { Chief } from './homecomponents/Chief.jsx'
 
 import { NavLink, useNavigate } from 'react-router-dom'
-import { MobileApp } from './homecomponents/MobileApp'
-import { Menuitems } from './homecomponents/Menuitems'
+import { MobileApp } from './homecomponents/MobileApp.jsx'
+import { Menuitems } from './homecomponents/Menuitems.jsx'
 
 
 

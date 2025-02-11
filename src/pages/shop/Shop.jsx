@@ -4,7 +4,7 @@ import { Staterdish } from "../menu/menucomponents/Staterdish"
 import arrow from "./image/arrow.png"
 import delivery from "./image/delivery.png"
 
-import { MenuItemsType } from "./shopcomponents/MenuItemsType"
+import { MenuItemsType } from "./shopcomponents/MenuItemsType.jsx"
 
 export const Shop = () => {
 

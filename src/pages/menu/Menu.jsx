@@ -1,6 +1,6 @@
-import { Drink } from "./menucomponents/Drink"
-import { Maindish } from "./menucomponents/Maindish"
-import { Staterdish } from "./menucomponents/Staterdish"
+import { Drink } from "./menucomponents/Drink.jsx"
+import { Maindish } from "./menucomponents/Maindish.jsx"
+import { Staterdish } from "./menucomponents/Staterdish.jsx"
 
 import burger from "./image/burger-2.png"
 import { useNavigate } from "react-router-dom"

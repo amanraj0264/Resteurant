@@ -1,11 +1,11 @@
 import './App.css'
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import { Contact } from './pages/contact/Contact';
-import { Shop } from './pages/shop/Shop';
-import { Menu } from './pages/menu/Menu';
-import { About } from './pages/about/About';
-import { Home } from './pages/home/Home';
-import AppLayout from './layouts/AppLayout';
+import { Contact } from './pages/contact/Contact.jsx';
+import { Shop } from './pages/shop/Shop.jsx';
+import { Menu } from './pages/menu/Menu.jsx';
+import { About } from './pages/about/About.jsx';
+import { Home } from './pages/home/Home.jsx';
+import AppLayout from './layouts/AppLayout.jsx';
 
 const App = () => {
 
